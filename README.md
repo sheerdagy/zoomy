@@ -12,5 +12,6 @@ Compatible with 10.10.3
 ### *** Installation ***
 
 To add the theme to Jellyfin, copy the following line to User/Display/Custom CSS code
-
+```
 @import url('https://github.com/sheerdagy/zoomy/theme.css');
+```
